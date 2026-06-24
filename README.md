@@ -5,5 +5,5 @@ I love blending creativity and code to build projects that make a difference.
 Create ✨
 
 ### 🚀 What I'm Learning
-- Python (100 Days of Code)
+- Web design
 
